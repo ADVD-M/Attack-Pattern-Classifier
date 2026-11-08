@@ -1,0 +1,12 @@
+test_python_node_parity (test_cost_agreement.CostTests.test_python_node_parity) ... ok
+test_ties_and_endpoints (test_cost_agreement.CostTests.test_ties_and_endpoints) ... ok
+test_actual_fit_provenance (test_leakage.LeakageTests.test_actual_fit_provenance) ... ok
+test_exports (test_leakage.LeakageTests.test_exports) ... ok
+test_inputs_and_split (test_leakage.LeakageTests.test_inputs_and_split) ... ok
+test_refit_changes_parameters (test_leakage.LeakageTests.test_refit_changes_parameters) ... ok
+test_thresholds_recomputed_from_oof (test_leakage.LeakageTests.test_thresholds_recomputed_from_oof) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 6.348s
+
+OK
